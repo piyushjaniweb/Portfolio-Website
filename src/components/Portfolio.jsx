@@ -10,7 +10,7 @@ const Portfolio = () => {
       id: 1,
       src: chefly,
       link: 'https://chefly-piyush-jani.netlify.app/',
-      repo: 'https://github.com/piyushjaniweb/Portfolio-Website'
+      repo: 'https://github.com/piyushjaniweb/chefly'
     },
     {
       id: 2,
